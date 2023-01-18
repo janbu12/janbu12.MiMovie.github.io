@@ -1,0 +1,25 @@
+Current runner version: '2.300.2'
+Operating System
+  Ubuntu
+  22.04.1
+  LTS
+Runner Image
+  Image: ubuntu-22.04
+  Version: 20230109.1
+  Included Software: https://github.com/actions/runner-images/blob/ubuntu22/20230109.1/images/linux/Ubuntu2204-Readme.md
+  Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu22%2F20230109.1
+Runner Image Provisioner
+  2.0.98.1
+GITHUB_TOKEN Permissions
+  Contents: read
+  Metadata: read
+  Pages: write
+Secret source: Actions
+Prepare workflow directory
+Prepare all required actions
+Getting action download info
+Download action repository 'actions/checkout@v3' (SHA:ac593985615ec2ede58e132d2e21d2b1cbd6127c)
+Download action repository 'actions/jekyll-build-pages@v1' (SHA:9b882383c88a22eef81e9c1a5a232c2ff9a6672b)
+Download action repository 'actions/upload-pages-artifact@v1' (SHA:253fd476ed429e83b7aae64a92a75b4ceb1a17cf)
+Getting action download info
+Download action repository 'actions/upload-artifact@main' (SHA:65d862660abb392b8c4a3d1195a2108db131dd05)
